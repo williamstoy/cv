@@ -62,6 +62,17 @@ NSF Graduate Research Fellow
 *2012 – 2018*  
 In vivo whole cell patch-clamp recording is one of the most important and versatile techniques in neuroscience. Whole cell recordings have enabled stable investigation of subthreshold activity to identify cell types and circuits in the intact brain. However, the success rate is incredibly low when this procedure is performed manually ( 10% in the cortex and ¡1% success rate in deeper tissue e.g. the thalamus). Two factors contribute to the low success rate of in vivo recordings: 1) Pipettes clogged by blood vessels during insertion through overlying tissue and 2) Physiological motion from the animals heartbeat and breathing causes cells move with respect to the pipette tip gigaseal formation. I developed an algorithm to detect and move around blood vessels during pipette insertion, and detected the heartbeat and breathing of the animal to perform real-time synchronization of the pipette position to the cell surface with nanometer precision. A 25x improvement in whole-cell yield over manual methods using the combination of these two techniques was demonstrated and applied the system with optogenetic and sensory stimulation in transgenic mice. Together, these tools represent a fully automated platform for acquisition of sensitive electrical recordings in previously inaccessible tissue that will enable neuroscientists to unravel neural codes in early sensory processing brain regions.
 
+# Selected Open Source Projects
+[Inertial Microfluidics Optimizer for ANSYS Fluent](https://github.com/williamstoy/inertial-microfluidics-optimization)  
+*This project is intended to help scientists design and optimize particle flow through microfluidic channels by implementing newly released neural network flow calculations in ANSYS Fluent.*  
+Inertial microfluidic devices often have several repeated segments to modify fluid flow and particle positions within a channel. Meshing and simulating the entire device would be computationally expensive and applying periodic boundary conditions assumes the device is infinitely long. To simulate particle flow in an inertial microfluidic device with finite repeated steps, we first release particles at the inlet from an initial injection DPM definition. Particles are then sampled at the outlet plane and re-injected in subsequent steps.
+
+[OpalKelly FrontPanel Matlab API](https://github.com/williamstoy/opalkelly-frontpanel-api-matlab)  
+*This project enables FPGA designers to communicate with OpalKelly devices through a MATLAB API*
+
+[AlicatModbusRTU](https://github.com/williamstoy/AlicatModbusRTU) and [ModbusInterface](https://github.com/williamstoy/ModbusInterface)  
+*These projects enable engineers to control ALICAT pressure and flow controllers with Arduino over the MODBUS interface*
+
 # Business Experience
 ### RocketJudge
 **Founder**
