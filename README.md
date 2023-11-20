@@ -33,11 +33,31 @@ High throughput material synthesis and testing, Automation, Material discovery, 
 - University Honors Program, NC State University, Raleigh, 2008 – 2012
 - NC School of Science and Mathematics (NCSSM) Graduate, Durham, 2008
 
-#Selected Publications
+# Selected Publications
 Stoy WM, Yang B, Kight A, Wright NC, Borden PY, Stanley GB, Forest CR. “Compensation of physiological motion enables high-yield whole-cell recording in vivo.” J Neurosci Methods. 2020 Nov 23;:109008. doi: 10.1016/j.jneumeth.2020.109008. PubMed PMID: 33242530.
 Stoy W, Kolb I, Holst GL, Liew Y, Pala A, Yang B, Boyden ES, Stanley GB, Forest CR. “Robotic navigation to subcortical neural tissue for intracellular electrophysiology in vivo.” J Neurophysiol. 2017 Aug 1;118(2):1141-1150. doi: 10.1152/jn.00117.2017. Epub 2017 Jun 7. PubMed PMID: 28592685; PubMed Central PMCID: PMC5547255.
 Li L, Stoy WA*, Ouellette B*, Garren EJ, Daigle TL, Forest CR, Koch C, Zeng H. “A robot for high yield electrophysiology and morphology of single neurons in vivo.” Nat Commun. 2017 Jun 1;8:15604. doi: 10.1038/ncomms15604. PubMed PMID: 28569837; PubMed Central PMCID: PMC5461495
 Kolb I, Stoy WA, Rousseau EB, Moody OA, Jenkins A, Forest CR. “Cleaning patch-clamp pipettes for immediate reuse.” Sci Rep. 2016 Oct 11;6:35001. doi: 10.1038/srep35001. PubMed PMID: 27725751; PubMed Central PMCID: PMC5057089.
+
+            
+            
+
+              
+                1 comment on PubPeer (by: Romain Brette)
+              
+            
+
+          
+
+            
+            
+
+              
+                1 comment on PubPeer (by: Romain Brette)
+              
+            
+
+          
 
             
             
